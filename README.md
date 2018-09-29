@@ -18,7 +18,7 @@ The Gatekeeper settings can be found in System Preferences > Security & Privacy 
 
 Thankfully, the “Anywhere” setting can be restored to Gatekeeper in Sierra with a Terminal command. First, quit System Preferences if it’s open and then open a new Terminal window. Enter the following command, followed by your admin password when prompted:
 
-sudo spctl --master-disable
+###### sudo spctl --master-disable
 
 Now, relaunch System Preferences and head back to the Gatekeeper settings. You’ll now see that “Anywhere” has been restored. Click the padlock in the lower-left corner to enter your password and make changes, then select “Anywhere” from the list of Gatekeeper options. The security feature will no longer bug you about apps from unidentified developers.
 
