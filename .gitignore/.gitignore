@@ -1,0 +1,31 @@
+# Config files #
+#######################
+config.sh
+settings.ini
+
+# OS generated files #
+######################
+.htaccess
+.htpasswd
+*.lock
+.DS_Store
+.DS_Store?
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Build and Release Folders
+temp/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
