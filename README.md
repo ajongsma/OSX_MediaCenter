@@ -3,7 +3,7 @@
 
 Note:
 =====
-A clean install will erase all of the contents on your disk drive. Make sure to back up your important files, settings and apps before proceeding. If needed, upgrade the system to [Sierra](https://itunes.apple.com/nl/app/macos-sierra/id1127487414)
+A clean install will erase all of the contents on your disk drive. Make sure to back up your important files, settings and apps before proceeding. If needed, upgrade the system to [Mojave](https://support.apple.com/macos/mojave)
 
 Performing a clean install:
 
