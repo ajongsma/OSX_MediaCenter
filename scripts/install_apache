@@ -1,0 +1,13 @@
+### (un)Install Apache
+# sudo apachectl stop
+# sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist
+
+# brew install httpd
+# sudo brew services start httpd
+
+### Test for succesfull install
+# open http://localhost:8080
+# ps -aef | grep httpd
+# sudo apachectl -k restart
+# tail -f /usr/local/var/log/httpd/error_log
+
