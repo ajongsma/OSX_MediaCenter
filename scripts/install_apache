@@ -11,3 +11,16 @@
 # sudo apachectl -k restart
 # tail -f /usr/local/var/log/httpd/error_log
 
+### Change listening port
+# nano /usr/local/etc/httpd/httpd.conf
+## Change "Listen 8080" to "Listen 80"
+## uncomment "#LoadModule rewrite_module lib/httpd/modules/mod_rewrite.so"
+
+### Change AllowOverride for "<Directory>"
+# "AllowOverride None" to "AllowOverride All"
+
+### Add the ServerName
+# ServerName localhost
+
+### Restart server
+sudo apachectl -k restart
