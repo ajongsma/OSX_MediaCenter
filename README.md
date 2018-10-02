@@ -33,6 +33,12 @@ Install
 - [ ] Placeholder
   * [ ] Placeholder
 
+###### Plex additions
+- [ ] Plex Media Server
+  * [ ] HelloHue bundle: https://github.com/ledge74/HelloHue.bundle
+  * [ ] Trailer bundle: https://www.howtogeek.com/305607/how-to-add-trailers-to-your-plex-movies-for-a-true-movie-theater-experience/
+
+
 Usefull links:
 =====
 ###### Plex Information page(s)
