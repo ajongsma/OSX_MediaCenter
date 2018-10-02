@@ -38,6 +38,14 @@ Install
   * [ ] HelloHue bundle: https://github.com/ledge74/HelloHue.bundle
   * [ ] TrailerAddict bundle: https://github.com/piplongrun/TrailerAddict.bundle
 
+###### Harmony
+Harmony hub‑based products
+- [ ] Harmony app
+  * [ ] Add device by entering the manufacturer as Apple and the model as PLEX.
+- [ ] iOS Harmony App & OS X
+  * [ ] iOS Harmony app: Add device Mac Computer
+  * [ ] OS X: Add BlueTooth device Logitech Keyboard
+
 
 Usefull links:
 =====
