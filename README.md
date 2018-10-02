@@ -43,3 +43,6 @@ Usefull links:
 
 ###### Hue informatino page(s)
 - Hue bridge IP: https://www.meethue.com/api/nupnp
+
+###### Stop display from turning off when I disconnect a Screen Sharing client
+- sudo defaults write /Library/Preferences/com.apple.RemoteManagement RestoreMachineState -bool NO
