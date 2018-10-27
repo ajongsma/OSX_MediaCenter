@@ -59,3 +59,6 @@ Usefull links:
 
 ###### Stop display from turning off when disconnecting a Screen Sharing client
 - sudo defaults write /Library/Preferences/com.apple.RemoteManagement RestoreMachineState -bool NO
+
+###### Other
+- https://getgrav.org/blog/macos-mojave-apache-mysql-vhost-apc
