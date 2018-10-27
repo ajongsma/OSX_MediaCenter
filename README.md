@@ -62,3 +62,4 @@ Usefull links:
 
 ###### Other
 - https://getgrav.org/blog/macos-mojave-apache-mysql-vhost-apc
+- https://www.streaming-generation.com/synchronize-media-plex-trakt-plugin/
